@@ -1,3 +1,16 @@
+Algorithm Efficiency Mini Project
+Analyzing Time & Space Complexity Through Real Experiments
+This project measures and compares the performance of several classic algorithms used in computer science.
+It includes:
+Sorting Algorithms
+Fibonacci (Recursive vs Dynamic Programming)
+Binary Search
+Time & Memory Profiling
+Visual Graphs and Summary Tables
+The goal is to experimentally validate Big-O complexity using real execution time and memory usage.
+
+
+
 Algorithm Strategies Mini-Project
 Solving Real-World Problems with Greedy, Dynamic Programming, Backtracking & Brute Force
 
